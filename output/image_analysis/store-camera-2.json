@@ -1,0 +1,94 @@
+{
+    "apim-request-id": "9b6f32a4-5182-4224-be52-1142e06fa7da",
+    "content-length": "1122",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "metadata": {
+        "width": 1024,
+        "height": 682
+    },
+    "tagsResult": {
+        "values": [
+            {
+                "name": "clothing",
+                "confidence": 0.9903867840766907
+            },
+            {
+                "name": "person",
+                "confidence": 0.9825901985168457
+            },
+            {
+                "name": "convenience store",
+                "confidence": 0.9799699187278748
+            },
+            {
+                "name": "retail",
+                "confidence": 0.9788036942481995
+            },
+            {
+                "name": "supermarket",
+                "confidence": 0.9576845169067383
+            },
+            {
+                "name": "grocery store",
+                "confidence": 0.9418374300003052
+            },
+            {
+                "name": "shopping",
+                "confidence": 0.9195953607559204
+            },
+            {
+                "name": "customer",
+                "confidence": 0.917695164680481
+            },
+            {
+                "name": "text",
+                "confidence": 0.9061540961265564
+            },
+            {
+                "name": "trade",
+                "confidence": 0.9014636874198914
+            },
+            {
+                "name": "human face",
+                "confidence": 0.900464653968811
+            },
+            {
+                "name": "indoor",
+                "confidence": 0.8902593851089478
+            },
+            {
+                "name": "woman",
+                "confidence": 0.8837171196937561
+            },
+            {
+                "name": "selling",
+                "confidence": 0.881527304649353
+            },
+            {
+                "name": "shop",
+                "confidence": 0.8811236619949341
+            },
+            {
+                "name": "market",
+                "confidence": 0.86820387840271
+            },
+            {
+                "name": "store",
+                "confidence": 0.8125657439231873
+            },
+            {
+                "name": "shelf",
+                "confidence": 0.6904577612876892
+            },
+            {
+                "name": "standing",
+                "confidence": 0.6564072370529175
+            },
+            {
+                "name": "marketplace",
+                "confidence": 0.5118390917778015
+            }
+        ]
+    }
+}

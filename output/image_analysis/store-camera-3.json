@@ -1,0 +1,42 @@
+{
+    "apim-request-id": "a025ec64-d22f-4b98-8ff7-680e6fe047c2",
+    "content-length": "290",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "metadata": {
+        "width": 1024,
+        "height": 682
+    },
+    "objectsResult": {
+        "values": [
+            {
+                "boundingBox": {
+                    "x": 278,
+                    "y": 154,
+                    "w": 367,
+                    "h": 490
+                },
+                "tags": [
+                    {
+                        "name": "person",
+                        "confidence": 0.848
+                    }
+                ]
+            },
+            {
+                "boundingBox": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 717,
+                    "h": 677
+                },
+                "tags": [
+                    {
+                        "name": "supermarket",
+                        "confidence": 0.517
+                    }
+                ]
+            }
+        ]
+    }
+}
