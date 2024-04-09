@@ -20,7 +20,7 @@
 - Foram utilizadas as imagens store-camera-1, store-camera-2 e store-camera-3 armazenadas na pasta inputs/face_detection do projeto
 - Os resultados das 3 imagens ao passar pelo Recurso de serviço de IA do Azure para detecação de faces foram:
 
-Para store-camera-1:<br>
+#### Para store-camera-1:<br>
 Face #1<br>
 Face mask: no
 
@@ -158,10 +158,11 @@ Face mask: no
 ]
 }
 ```
-Disponível também na pasta output/face_detecion
 
 </details> 
- Para store-camera-2:<br>
+Disponível também na pasta output/face_detecion
+
+#### Para store-camera-2:<br>
 Face #1<br>
 Face mask: no<br>
 Face #2<br>
@@ -928,9 +929,11 @@ Face mask: no
 ]
 
 ```
+
+</details> 
 Disponível também na pasta output/face_detecion
 
-Para store-camera-3:<br>
+#### Para store-camera-3:<br>
 No face detected
 
 ```json
@@ -951,7 +954,7 @@ No face detected
 - Foram utilizadas as imagens advert, letter, note e receipt armazenadas na pasta inputs/ocr do projeto
 - Os resultados das 4 imagens ao passar pelo Recurso de serviço de IA do Azure para extração de texto foram:
 
-Para advert:<br>
+#### Para advert:<br>
 NorthwindTraders<br>
 PIEWINNER<br>
 Freshproduce,<br>
@@ -1369,9 +1372,11 @@ Open7daysaweek
   }
 ]
 ```
+
+</details> 
 Disponível também na pasta output/ocr
 
-Para letter:<br>
+#### Para letter:<br>
 January23rd2020<br>
 Fortheattentionof:<br>
 Themanager<br>
@@ -4149,9 +4154,11 @@ A.Customer
 ]
 
 ```
+
+</details> 
 Disponível também na pasta output/ocr
 
-Para note:<br>
+#### Para note:<br>
 ShoppingList<br>
 Non-Fatmilk<br>
 Bread<br>
@@ -4415,9 +4422,12 @@ Eggs
 ]
 
 ```
+
+</details> 
 Disponível também na pasta output/ocr
 
-Para receipt:<br>
+
+#### Para receipt:<br>
 NorthwindTraders<br>
 123MainStreet<br>
 555-123-4567<br>
@@ -5974,7 +5984,10 @@ $1.87
 ]
 
 ```
+
+</details> 
 Disponível também na pasta output/ocr
+
 
 ## Analyze images in Vision Studio
 
@@ -5990,7 +6003,7 @@ Disponível também na pasta output/ocr
 - Foram utilizadas as imagens store-camera-1, store-camera-2, store-camera-3, store-camera-4 armazenadas na pasta inputs/image_analysis do projeto
 - Os resultados das 4 imagens ao passar pelo Recurso de serviço de IA do Azure para análise de imagens foram:
 
-Para store-camera-1 em "Add captions to images":<br>
+#### Para store-camera-1 em "Add captions to images":<br>
 A woman and a girl in a grocery store
 
 <details>
@@ -6014,9 +6027,13 @@ A woman and a girl in a grocery store
 
 ```
 
+</details> 
+
 Disponível também na pasta output/image_analysis
 
-Para store-camera-1 em "Add dense captions to images":<br>
+
+
+#### Para store-camera-1 em "Add dense captions to images":<br>
 A LOT OF POSSIBILITIES
 A woman and a girl in a grocery store<br>
 A woman smiling while holding a phone<br>
@@ -6150,9 +6167,10 @@ A blurry image of a person standing in a room<br>
 
 ```
 
+</details> 
 Disponível também na pasta output/image_analysis
 
-Para store-camera-2 em "Extract Tags":<br>
+#### Para store-camera-2 em "Extract Tags":<br>
 clothing (99.04%)<br>
 person (98.26%)<br>
 convenience store (98.00%)<br>
@@ -6276,9 +6294,10 @@ marketplace (51.18%)
 
 ```
 
+</details> 
 Disponível também na pasta output/image_analysis
 
-Para store-camera-3 em "Detect common objects in images" with threshold at 70:<br>
+#### Para store-camera-3 em "Detect common objects in images" with threshold at 70:<br>
 person (84.80%)
 
 <details>
@@ -6328,4 +6347,6 @@ person (84.80%)
   }
 }
 ```
+
+</details> 
 Disponível também na pasta output/image_analysis
