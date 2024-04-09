@@ -1,4 +1,4 @@
-# vision-studio-face_detection-ocr-and-image_analysis
+# mslearn-vision-studio-face_detection-ocr-and-image_analysis
 
 
 ## Explicando o Projeto
