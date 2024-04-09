@@ -160,6 +160,7 @@ Face mask: no
 ```
 Disponível também na pasta output/face_detecion
 
+</details> 
  Para store-camera-2:<br>
 Face #1<br>
 Face mask: no<br>
